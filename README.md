@@ -60,3 +60,4 @@ so I think it might be better to just remove the class entirely.
 However, I do wonder if this would reduce cohesion, since a lot of my GUI methods deal with the JSwing 
 components.
 
+**This is a school project that was developed and submitted in the private course organization. Hence, there are only a few commits.** 
